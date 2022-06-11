@@ -5,7 +5,7 @@
   "unity_game_id": "unityGamneId",
   "unity_banner": "unityBanner",
   "unity_inter": "unityInter",
-  "kemungkinan_unity": 0,
+  "kemungkinan_unity": 1,
   "interval_unity": 4,
   
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
@@ -16,7 +16,7 @@
   
   "max_banner": "maxBanner",
   "max_inter": "maxInter",
-  "kemungkinan_max": 15,
+  "kemungkinan_max": 1500,
   "interval_max": 5,
   
   "startapp_id": "12345",
