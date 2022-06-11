@@ -1,5 +1,6 @@
 {
   "interval_awal": 4,
+  "splash_ad": true,
   
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
   "admob_banner": "ca-app-pub-3940256099942544/63009781xx",
