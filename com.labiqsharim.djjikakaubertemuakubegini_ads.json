@@ -5,7 +5,7 @@
   "unity_game_id": "unityGamneId",
   "unity_banner": "unityBanner",
   "unity_inter": "unityInter",
-  "kemungkinan_unity": 80,
+  "kemungkinan_unity": 0,
   "interval_unity": 4,
   
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
