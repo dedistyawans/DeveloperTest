@@ -1,6 +1,8 @@
 {
   "interval_awal": 2,
   "splash_ad": "admob",
+  "banner_ad": "urutan",
+  "inter_ad": "max",
   
   "unity_game_id": "unityGamneId",
   "unity_banner": "unityBanner",
