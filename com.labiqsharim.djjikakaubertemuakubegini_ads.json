@@ -10,25 +10,21 @@
   "unity_inter": "unityInter",
   "kemungkinan_unity": 1,
   "interval_unity": 4,
-  "minimum_time_unity": 60,
   
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
   "admob_banner": "ca-app-pub-3940256099942544/63009781xx",
   "admob_inter": "ca-app-pub-3940256099942544/10331737xx",
   "kemungkinan_admob": 1,
   "interval_admob": 4,
-  "minimum_time_admob": 61,
   
   "max_banner": "maxBanner",
   "max_inter": "maxInter",
   "kemungkinan_max": 1,
   "interval_max": 5,
-  "minimum_time_max": 62,
   
   "startapp_id": "12345",
   "kemungkinan_startapp": 1,
   "interval_startapp": 2,
-  "minimum_time_startapp": 63,
   
   "shopee_aff": "https://shopee.co.id"
 }
