@@ -3,6 +3,7 @@
   "splash_ad": "admob",
   "banner_ad": "urutan",
   "inter_ad": "urutan",
+  "app_live_store": "auto",
   
   "unity_game_id": "unityGamneId",
   "unity_banner": "unityBanner",
@@ -14,18 +15,18 @@
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
   "admob_banner": "ca-app-pub-3940256099942544/63009781xx",
   "admob_inter": "ca-app-pub-3940256099942544/10331737xx",
-  "kemungkinan_admob": 80,
+  "kemungkinan_admob": 0,
   "interval_admob": 4,
   "minimum_time_admob": 60,
   
   "max_banner": "maxBanner",
   "max_inter": "maxInter",
-  "kemungkinan_max": 1500,
+  "kemungkinan_max": 0,
   "interval_max": 5,
   "minimum_time_max": 60,
   
   "startapp_id": "12345",
-  "kemungkinan_startapp": 5,
+  "kemungkinan_startapp": 0,
   "interval_startapp": 2,
   "minimum_time_startapp": 60,
   
