@@ -2,9 +2,9 @@
 	"ads": 
 	{
 	  "interval_awal": 2,
-	  "splash_ad": "auto",
-	  "banner_ad": "auto",
-	  "inter_ad": "auto",
+	  "splash_ad": "max",
+	  "banner_ad": "max",
+	  "inter_ad": "max",
 	  "app_live_store": "auto",
 	  
 	  "unity_game_id": "unityGamneId",
