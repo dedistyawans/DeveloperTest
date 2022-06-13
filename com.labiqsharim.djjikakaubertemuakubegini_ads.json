@@ -1,34 +1,34 @@
 {
   "interval_awal": 2,
-  "splash_ad": "off",
-  "banner_ad": "unity",
+  "splash_ad": "auto",
+  "banner_ad": "auto",
   "inter_ad": "auto",
   "app_live_store": "auto",
   
   "unity_game_id": "unityGamneId",
   "unity_banner": "unityBanner",
   "unity_inter": "unityInter",
-  "kemungkinan_unity": 1,
+  "kemungkinan_unity": 0,
   "interval_unity": 4,
   "minimum_time_unity": 60,
   
   "admob_open": "ca-app-pub-3940256099942544/3419835294",
   "admob_banner": "ca-app-pub-3940256099942544/63009781xx",
   "admob_inter": "ca-app-pub-3940256099942544/10331737xx",
-  "kemungkinan_admob": 1,
+  "kemungkinan_admob": 0,
   "interval_admob": 4,
   "minimum_time_admob": 61,
   
   "max_banner": "maxBanner",
   "max_inter": "maxInter",
-  "kemungkinan_max": 1,
+  "kemungkinan_max": 70,
   "interval_max": 5,
-  "minimum_time_max": 62,
+  "minimum_time_max": 60,
   
   "startapp_id": "12345",
-  "kemungkinan_startapp": 0,
-  "interval_startapp": 2,
-  "minimum_time_startapp": 63,
+  "kemungkinan_startapp": 30,
+  "interval_startapp": 3,
+  "minimum_time_startapp": 30,
   
   "shopee_aff": "https://shopee.co.id"
 }
