@@ -1,6 +1,6 @@
 {
   "interval_awal": 2,
-  "splash_ad": "auto",
+  "splash_ad": "off",
   "banner_ad": "unity",
   "inter_ad": "auto",
   "app_live_store": "auto",
