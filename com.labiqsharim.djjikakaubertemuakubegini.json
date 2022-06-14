@@ -7,6 +7,11 @@
 	  "inter_ad": "auto",
 	  "app_live_store": "auto",
 	  
+	  "iron_appkey": "ironAppKey",
+	  "kemungkinan_iron": 90000000,
+	  "interval_iron": 3,
+	  "minimum_time_iron": 60,
+		
 	  "fan_banner": "fanBanner",
 	  "fan_inter": "interFan",
 	  "kemungkinan_fan": 10000000,
