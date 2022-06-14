@@ -8,7 +8,7 @@
 	  "app_live_store": "auto",
 	  
 	  "iron_appkey": "ironAppKey",
-	  "kemungkinan_iron": 90000000,
+	  "kemungkinan_iron": 0,
 	  "interval_iron": 3,
 	  "minimum_time_iron": 60,
 		
