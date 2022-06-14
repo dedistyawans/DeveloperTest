@@ -2,9 +2,9 @@
 	"ads": 
 	{
 	  "interval_awal": 2,
-	  "splash_ad": "max",
-	  "banner_ad": "max",
-	  "inter_ad": "max",
+	  "splash_ad": "auto",
+	  "banner_ad": "auto",
+	  "inter_ad": "auto",
 	  "app_live_store": "auto",
 	  
 	  "fan_banner": "fanBanner",
