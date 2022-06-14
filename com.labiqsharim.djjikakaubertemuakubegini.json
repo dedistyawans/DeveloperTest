@@ -7,6 +7,12 @@
 	  "inter_ad": "max",
 	  "app_live_store": "auto",
 	  
+	  "fan_banner": "fanBanner",
+	  "inter_fan": "interFan",
+	  "kemungkinan_fan": 10000000,
+	  "interval_fan": 3,
+	  "minimum_time_fan": 60,
+		
 	  "unity_game_id": "unityGamneId",
 	  "unity_banner": "unityBanner",
 	  "unity_inter": "unityInter",
