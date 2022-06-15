@@ -14,7 +14,7 @@
 		
 	  "fan_banner": "fanBanner",
 	  "fan_inter": "interFan",
-	  "kemungkinan_fan": 10000000,
+	  "kemungkinan_fan": 1000,
 	  "interval_fan": 3,
 	  "minimum_time_fan": 60,
 		
@@ -28,7 +28,7 @@
 	  "admob_open": "ca-app-pub-3940256099942544/3419835294",
 	  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	  "admob_inter": "ca-app-pub-3940256099942544/10331737xx",
-	  "kemungkinan_admob": 10000,
+	  "kemungkinan_admob": 99000000,
 	  "interval_admob": 4,
 	  "minimum_time_admob": 61,
 	  
